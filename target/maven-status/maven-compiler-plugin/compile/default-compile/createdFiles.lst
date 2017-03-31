@@ -1,0 +1,5 @@
+com\vts\cameramonitor\dao\UserDao.class
+com\vts\cameramonitor\controller\UserController.class
+com\vts\cameramonitor\service\impl\UserServiceImpl.class
+com\vts\cameramonitor\model\User.class
+com\vts\cameramonitor\service\UserService.class

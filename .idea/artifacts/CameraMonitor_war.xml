@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CameraMonitor:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="camera-monitor.war">
+      <element id="artifact" artifact-name="CameraMonitor:war exploded" />
+    </root>
+  </artifact>
+</component>
